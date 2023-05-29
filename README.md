@@ -663,9 +663,12 @@ body {
 
 
 ## OUTPUT:
-![2023-05-29 (5)](https://github.com/Thirukaalathessvarar-S/productcompanywebsite/assets/121166390/3a031a39-b4f2-4886-a1f0-c78c18e36fac)
+![2023-05-29 (10)](https://github.com/Thirukaalathessvarar-S/productcompanywebsite/assets/121166390/01671ede-d8d2-46d0-baf6-8e3ab69cec9e)
+
 ![2023-05-29 (6)](https://github.com/Thirukaalathessvarar-S/productcompanywebsite/assets/121166390/220fd102-27ba-485c-9c14-a5f153a3ff97)
+
 ![2023-05-29 (8)](https://github.com/Thirukaalathessvarar-S/productcompanywebsite/assets/121166390/ac37df16-3df2-456a-b2dd-07959ffe70da)
+
 ![2023-05-29 (9)](https://github.com/Thirukaalathessvarar-S/productcompanywebsite/assets/121166390/b140dc49-5779-4345-a782-654dee1fc349)
 
 ## Result:
